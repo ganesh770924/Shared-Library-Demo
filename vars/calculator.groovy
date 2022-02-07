@@ -1,7 +1,7 @@
 def add(x,y){
-  echo  "sum of ${1} and ${2} is ${1+2}"
+  echo  "sum of ${x} and ${y} is ${x+y}"
 }
 
 def mul(x,y){
-  echo  "product of ${1} and ${2} is ${1*2}"
+  echo  "product of ${x} and ${y} is ${x*y}"
 }
